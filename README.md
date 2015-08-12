@@ -1,2 +1,2 @@
 # hello-world
-A Repository
+I am in school.
